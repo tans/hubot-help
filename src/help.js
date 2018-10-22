@@ -4,8 +4,7 @@
 //   Generates help commands for Hubot.
 //
 // Commands:
-//   hubot help - Displays all of the help commands that this bot knows about.
-//   hubot help <query> - Displays all help commands that match <query>.
+//   hubot help - 显示帮助
 //
 // URLS:
 //   /hubot/help
